@@ -19,8 +19,8 @@ form {
     align-items: center;
     background-color: #CCC;
     color: black;
-    width: 70%;
-    height: 200px;
+    width: 50%;
+    height: 300px;
 
     
 }
@@ -28,15 +28,18 @@ form {
 button {
     background-color: darkmagenta;
     color: white;
-    margin-top: 10px;
+    margin-top: 20px;
     padding: 10px 15px 10px 15px;
 }
 
 input{
     margin-top: 10px;
+    padding: 5px;
+    width: 30%;
 }
 
 h1 {
     font-family: "Creepster";
-    font-size: 2em;
+    font-size: 3em;
+    margin-bottom: 20px;
 }
